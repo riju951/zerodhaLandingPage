@@ -1,5 +1,3 @@
-# zerodhaLandingPage
-
 # ZeroDha Landing Page
 
 This is a simple landing page for ZeroDha, created using HTML and CSS. ZeroDha is a fictional financial platform, and this landing page is designed to showcase its key features and attract potential users.
